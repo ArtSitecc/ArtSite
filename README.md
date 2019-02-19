@@ -1,20 +1,20 @@
 # A
-[ArtAcme.cc](http://artacme.cc)
-[ArtAeon.cc](http://artaeon.cc)
-[ArtAero.cc](http://artaero.cc)
-[ArtAlly.cc](http://artally.cc)
-[ArtAmmo.cc](http://artammo.cc)
-[ArtApex.cc](http://artapex.cc)
-[ArtArea.cc](http://artarea.cc)
-[ArtAria.cc](http://artaria.cc)
-[ArtArms.cc](http://artarms.cc)
-[ArtArmy.cc](http://artarmy.cc)
-[ArtArts.cc](http://artarts.cc)
-[ArtAtom.cc](http://artatom.cc)
-[ArtAura.cc](http://artaura.cc)
-[ArtAuto.cc](http://artauto.cc)
-[ArtAway.cc](http://artaway.cc)
-[ArtAxis.cc](http://artaxis.cc)
+[ArtAcme.cc](http://artacme.cc)|
+[ArtAeon.cc](http://artaeon.cc)|
+[ArtAero.cc](http://artaero.cc)|
+[ArtAlly.cc](http://artally.cc) |
+[ArtAmmo.cc](http://artammo.cc) |
+[ArtApex.cc](http://artapex.cc) |
+[ArtArea.cc](http://artarea.cc)/
+[ArtAria.cc](http://artaria.cc)/
+[ArtArms.cc](http://artarms.cc)/
+[ArtArmy.cc](http://artarmy.cc) /
+[ArtArts.cc](http://artarts.cc) /
+[ArtAtom.cc](http://artatom.cc) /
+[ArtAura.cc](http://artaura.cc)\
+[ArtAuto.cc](http://artauto.cc)\
+[ArtAway.cc](http://artaway.cc) \
+[ArtAxis.cc](http://artaxis.cc) \
 
 # B
 [ArtBack.cc](http://artback.cc)
