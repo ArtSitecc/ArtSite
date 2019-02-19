@@ -17,48 +17,48 @@
 [ArtAxis.cc](http://artaxis.cc) /
 
 # B
-[ArtBack.cc](http://artback.cc)
-[ArtBall.cc](http://artball.cc)
-[ArtBard.cc](http://artbard.cc)
-[ArtBase.cc](http://artbase.cc)
-[ArtBean.cc](http://artbean.cc)
-[ArtBest.cc](http://artbest.cc)
-[ArtBike.cc](http://artbike.cc)
-[ArtBill.cc](http://artbill.cc)
-[ArtBing.cc](http://artbing.cc)
-[ArtBloc.cc](http://artbloc.cc)
-[ArtBlog.cc](http://artblog.cc)
-[ArtBlue.cc](http://artblue.cc)
-[ArtBody.cc](http://artbody.cc)
-[ArtBole.cc](http://artbole.cc)
-[ArtBomb.cc](http://artbomb.cc)
-[ArtBook.cc](http://artbook.cc)
-[ArtBoot.cc](http://artboot.cc)
-[ArtByte.cc](http://artbyte.cc)
+[ArtBack.cc](http://artback.cc) /
+[ArtBall.cc](http://artball.cc) /
+[ArtBard.cc](http://artbard.cc) /
+[ArtBase.cc](http://artbase.cc) /
+[ArtBean.cc](http://artbean.cc) /
+[ArtBest.cc](http://artbest.cc) /
+[ArtBike.cc](http://artbike.cc) /
+[ArtBill.cc](http://artbill.cc) /
+[ArtBing.cc](http://artbing.cc) /
+[ArtBloc.cc](http://artbloc.cc) /
+[ArtBlog.cc](http://artblog.cc) /
+[ArtBlue.cc](http://artblue.cc) /
+[ArtBody.cc](http://artbody.cc) /
+[ArtBole.cc](http://artbole.cc) /
+[ArtBomb.cc](http://artbomb.cc) /
+[ArtBook.cc](http://artbook.cc) /
+[ArtBoot.cc](http://artboot.cc) /
+[ArtByte.cc](http://artbyte.cc) /
 
 # C
-[ArtCAFA.cc](http://artcafa.cc)
-[ArtCafe.cc](http://artcafe.cc)
-[ArtCake.cc](http://artcake.cc)
-[ArtCall.cc](http://artcall.cc)
-[ArtCamp.cc](http://artcamp.cc)
-[ArtCard.cc](http://artcard.cc)
-[ArtCart.cc](http://artcart.cc)
-[ArtCase.cc](http://artcase.cc)
-[ArtCash.cc](http://artcash.cc)
-[ArtCave.cc](http://artcave.cc)
-[ArtCell.cc](http://artcell.cc)
-[ArtChat.cc](http://artchat.cc)
-[ArtChip.cc](http://artchip.cc)
-[ArtClay.cc](http://artclay.cc)
-[ArtCMYK.cc](http://artcmyk.cc)
-[ArtCoda.cc](http://artcoda.cc)
-[ArtCode.cc](http://artcode.cc)
-[ArtCoin.cc](http://artcoin.cc)
-[ArtCopy.cc](http://artcopy.cc)
-[ArtCorn.cc](http://artcorn.cc)
-[ArtCube.cc](http://artcube.cc)
-[ArtCute.cc](http://artcute.cc)
+[ArtCAFA.cc](http://artcafa.cc) /
+[ArtCafe.cc](http://artcafe.cc) /
+[ArtCake.cc](http://artcake.cc) /
+[ArtCall.cc](http://artcall.cc) /
+[ArtCamp.cc](http://artcamp.cc) /
+[ArtCard.cc](http://artcard.cc) /
+[ArtCart.cc](http://artcart.cc) /
+[ArtCase.cc](http://artcase.cc) /
+[ArtCash.cc](http://artcash.cc) /
+[ArtCave.cc](http://artcave.cc) /
+[ArtCell.cc](http://artcell.cc) /
+[ArtChat.cc](http://artchat.cc) /
+[ArtChip.cc](http://artchip.cc) /
+[ArtClay.cc](http://artclay.cc) /
+[ArtCMYK.cc](http://artcmyk.cc) /
+[ArtCoda.cc](http://artcoda.cc) /
+[ArtCode.cc](http://artcode.cc) /
+[ArtCoin.cc](http://artcoin.cc) /
+[ArtCopy.cc](http://artcopy.cc) /
+[ArtCorn.cc](http://artcorn.cc) /
+[ArtCube.cc](http://artcube.cc) /
+[ArtCute.cc](http://artcute.cc) /
 
 # D
 [ArtDare.cc](http://artdare.cc)
