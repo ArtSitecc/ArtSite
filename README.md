@@ -197,7 +197,7 @@
 [ArtLord.cc](http://artlord.cc) /
 [ArtLore.cc](http://artlore.cc) /
 [ArtLose.cc](http://artlose.cc) /
-[ArtLove.cc](http://artlvoe.cc) /
+[ArtLove.cc](http://artlove.cc) /
 [ArtLuck.cc](http://artLuck.cc) /
 [ArtLust.cc](http://artlust.cc) /
 
@@ -217,7 +217,7 @@
 [ArtMeet.cc](http://artmeet.cc) /
 [ArtMega.cc](http://artmega.cc) /
 [ArtMenu.cc](http://artmenu.cc) /
-[ArtMeta.cc](http://artmate.cc) /
+[ArtMeta.cc](http://artmeta.cc) /
 [ArtMien.cc](http://artmien.cc) /
 [ArtMime.cc](http://artmime.cc) /
 [ArtMind.cc](http://artmind.cc) /
@@ -276,7 +276,7 @@
 
 # Q
 [ArtQuip.cc](http://artquip.cc) /
-[ArtQuit.cc](http://artquti.cc) /
+[ArtQuit.cc](http://artquit.cc) /
 [ArtQuiz.cc](http://artquiz.cc) /
 
 # R
@@ -294,6 +294,7 @@
 [ArtRock.cc](http://artrock.cc) /
 [ArtRoot.cc](http://artroot.cc) /
 [ArtRose.cc](http://artrose.cc) /
+[ArtRuin.cc](http://artruin.cc) /
 
 # S
 [ArtSafe.cc](http://artsafe.cc) /
@@ -348,7 +349,7 @@
 [ArtToys.cc](http://arttoys.cc) /
 [ArtTree.cc](http://arttree.cc) /
 [ArtTrip.cc](http://arttrip.cc) /
-[ArtTrue.cc](http://artture.cc) /
+[ArtTrue.cc](http://arttrue.cc) /
 [ArtTube.cc](http://arttube.cc) /
 [ArtTune.cc](http://arttune.cc) /
 [ArtTurn.cc](http://artturn.cc) /
@@ -361,7 +362,7 @@
 
 # V
 [ArtVane.cc](http://artvane.cc) /
-[ArtVary.cc](http://artvery.cc) /
+[ArtVary.cc](http://artvary.cc) /
 [ArtVase.cc](http://artvase.cc) /
 [ArtVast.cc](http://artvast.cc) /
 [ArtVeer.cc](http://artveer.cc) /
@@ -398,6 +399,9 @@
 [ArtWith.cc](http://artwith.cc) /
 [ArtWood.cc](http://artwood.cc) /
 [ArtWord.cc](http://artword.cc) /
+
+# X
+[ArtXary.cc](http://artxary.cc) /
 
 # Y
 [ArtYear.cc](http://artyear.cc) /
