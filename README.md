@@ -1,6 +1,3 @@
-# A  # c
-#B
-# z
 # A 
 [ArtAAAA.cc](http://artaaaa.cc) /
 
